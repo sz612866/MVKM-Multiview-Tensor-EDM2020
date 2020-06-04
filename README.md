@@ -2,7 +2,15 @@ Code accomanying the paper: Modeling Knowledge Acquisition from Multiple Learnin
 ## Citation:
 to be added
 
-## Prerequisite:
+## Prerequisite:  
+
+### Install Conda Environment:
+
+```
+conda env create -f environment.yml
+conda activate multiview
+```
+
 
 ## Collarators:
 * Siqian Zhao: szhao2@albany.edu
