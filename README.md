@@ -1,6 +1,4 @@
-Code accomanying the paper: Modeling Knowledge Acquisition from Multiple Learning Resource Types, Proceedings of the 13th International Conference on Educational Data Mining, EDM 2020.
-## Citation:
-to be added
+Code accomanying the paper: Siqian Zhao, Chunpai Wang, and Sherry Sahebi, "Modeling Knowledge Acquisition from Multiple Learning Resource Types", Proceedings of the 13th International Conference on Educational Data Mining, EDM 2020. (https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_142.pdf)
 
 ## Prerequisite:  
 
